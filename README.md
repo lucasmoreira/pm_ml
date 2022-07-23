@@ -1,3 +1,4 @@
 # pm_ml
 
-Código da análise das respostas coletadas via PMI, para matéria GPC da UnB.
+Code from the analysis of the answers collected via PMI, for UnB's GPC (Gestão de projetos complexos) module.
+
